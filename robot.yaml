@@ -3,8 +3,10 @@
 
 tasks:
   # Task names here are used when executing the bots, so renaming these is recommended.
-  Bot:
+  Robot Framework:
     robotTaskName: Minimal task
+  Python:
+    shell: python PDF_extras.py
 
 condaConfigFile: conda.yaml
 
