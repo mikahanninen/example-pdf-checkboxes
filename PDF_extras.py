@@ -84,7 +84,7 @@ if __name__ == "__main__":
         "DNA Palvelutasot (Laitteiden valvontajärjestelmä)",
         "Liittymien hallinta ja raportointi (Sähköiset itsepalvelukanavat)",
     ]
-    reference_checkbox_checked_image = "resources/checkbox_checked.png"
+    reference_checkbox_checked_image = "resources\\checkbox_checked.png"
     for filename in filenames:
         print(f"Checking checkboxes in {filename}")
         checkboxes = return_checkboxes(filename=filename, checkbox_texts=checkbox_texts)

@@ -9,7 +9,7 @@ Library     Collections
 ...                             resources\\1_Blaa_blaa_3.PDF
 @{CHECKBOX_TEXTS}               DNA Palvelutasot (Laitteiden valvontajärjestelmä)
 ...                             Liittymien hallinta ja raportointi (Sähköiset itsepalvelukanavat)
-${REFERENCE_CHECKED_IMAGE}      resources/checkbox_checked.png
+${REFERENCE_CHECKED_IMAGE}      resources\\checkbox_checked.png
 
 
 *** Tasks ***
